@@ -25,6 +25,9 @@ An interactive web app built with Streamlit and Python that suggests movies you�
   All computations use pre-built pickle files (`movies_dict.pkl`, `similarity.pkl`) for instant recommendations.
 
 ---
+📸 Demo & Screenshot
+![App Screenshot](screenshot.png)
+---
 
 ## 🛠️ Installation
 
